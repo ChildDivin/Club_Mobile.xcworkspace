@@ -1,35 +1,39 @@
 {
-  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "3B7BBEA2AE45F4ED7B84F309D2E800003B5C1B7C",
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "75E7732F7FC7EFC8AD86BB34D77E89B706730EDC",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
-    "3B7BBEA2AE45F4ED7B84F309D2E800003B5C1B7C" : {
+    "55e917d8-44f3-7143-8b18-e4f2959d9d8a++1317" : {
 
     }
   },
   "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "55e917d8-44f3-7143-8b18-e4f2959d9d8a++1317" : 9223372036854775807,
+    "75E7732F7FC7EFC8AD86BB34D77E89B706730EDC" : 9223372036854775807,
     "3B7BBEA2AE45F4ED7B84F309D2E800003B5C1B7C" : 9223372036854775807
   },
   "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "EDE6A5FD-F893-47D8-9674-D1B43739BA9F",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
-    "3B7BBEA2AE45F4ED7B84F309D2E800003B5C1B7C" : "Club_mobile_SVN\/V1\/Club_Mobile.xcodeproj\/"
+    "55e917d8-44f3-7143-8b18-e4f2959d9d8a++1317" : "..",
+    "75E7732F7FC7EFC8AD86BB34D77E89B706730EDC" : "Club_Mobile.xcworkspace\/",
+    "3B7BBEA2AE45F4ED7B84F309D2E800003B5C1B7C" : "Club_Mobile.xcodeproj\/"
   },
-  "DVTSourceControlWorkspaceBlueprintNameKey" : "Club_Mobile",
+  "DVTSourceControlWorkspaceBlueprintNameKey" : ".",
   "DVTSourceControlWorkspaceBlueprintVersion" : 204,
-  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "V1\/Club_Mobile.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : ".",
   "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
-    {
-      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/192.168.0.100:8443\/svn\/Club_mobile_iOS",
-      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
-      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3B7BBEA2AE45F4ED7B84F309D2E800003B5C1B7C"
-    },
-    {
-      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/192.168.0.100:8443\/svn\/Club_mobile_iOS",
-      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
-      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3B7BBEA2AE45F4ED7B84F309D2E800003B5C1B7C"
-    },
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ChildDivin\/Club_Mobile.xcodeproj.git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3B7BBEA2AE45F4ED7B84F309D2E800003B5C1B7C"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/192.168.0.100:8443\/svn\/Club_mobile_iOS",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "55e917d8-44f3-7143-8b18-e4f2959d9d8a++1317"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ChildDivin\/Club_Mobile.xcworkspace.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "75E7732F7FC7EFC8AD86BB34D77E89B706730EDC"
     }
   ]
 }
